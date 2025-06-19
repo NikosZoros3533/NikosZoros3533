@@ -1,3 +1,6 @@
+## About Me:
+### I want to be a Software Engineer not a Web Developer, I want to know how everything works.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikos-zoros) 
 
