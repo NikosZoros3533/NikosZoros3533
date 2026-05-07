@@ -16,9 +16,8 @@ I like understanding how systems work internally, from architecture to runtime b
 [![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 ## Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman\&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 # 📊 GitHub Stats
-[![Tools](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikosZoros3533&theme=dark&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosZoros3533&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
