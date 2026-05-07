@@ -41,7 +41,5 @@ I like understanding how systems work internally, from architecture to runtime b
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=NikosZoros3533\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosZoros3533\&theme=dark\&hide_border=false\&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikosZoros3533\&theme=dark\&hide_border=false)
+![](https://streak-stats.demolab.com?user=NikosZoros3533&theme=dark&hide_border=false)
