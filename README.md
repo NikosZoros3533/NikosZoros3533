@@ -10,8 +10,6 @@ I like understanding how systems work internally, from architecture to runtime b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/nikos-zoros)
 
 
-# 💻 Tech Stack
-
 ## Frontend
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
