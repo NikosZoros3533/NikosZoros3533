@@ -4,13 +4,11 @@
 
 I like understanding how systems work internally, from architecture to runtime behavior.
 
----
 
 # 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/nikos-zoros)
 
----
 
 # 💻 Tech Stack
 
@@ -41,7 +39,6 @@ I like understanding how systems work internally, from architecture to runtime b
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman\&logoColor=white)
 
----
 
 # 📊 GitHub Stats
 
