@@ -3,11 +3,7 @@
 ### Software Engineer mentality — not just a web developer.
 
 I like understanding how systems work internally, from architecture to runtime behavior.
-
-
-# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/nikos-zoros)
-
 
 ## Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
@@ -31,7 +27,6 @@ I like understanding how systems work internally, from architecture to runtime b
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman\&logoColor=white)
-
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=NikosZoros3533\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
