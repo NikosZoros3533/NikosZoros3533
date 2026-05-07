@@ -3,6 +3,7 @@
 ### Software Engineer mentality — not just a web developer.
 
 I like understanding how systems work internally, from architecture to runtime behavior.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/nikos-zoros)
 
 ## Frontend
